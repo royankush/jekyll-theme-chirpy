@@ -25,15 +25,15 @@ avatar: /assets/img/sample/tech_blogs.png  # support internet resources
 github:
   username: royankush             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+facebook:
+  username: ankush.roy.1466
 
 social:
   name: Ankush Roy                  # it will shows as the copyright owner in Footer
   email: ankroy98@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/royankush       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
