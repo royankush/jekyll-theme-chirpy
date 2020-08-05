@@ -1,8 +1,8 @@
 ---
 title: KRSSG Task Round - Mine and Later
 date: 2020-07-05 10:20:20 +0530
-categories: [KRSSG, General Funda]
-tags: [tasks, funda] 
+categories: [KRSSG General Funda]
+tags: [tasks] 
 ---
 
 ## Some Background
